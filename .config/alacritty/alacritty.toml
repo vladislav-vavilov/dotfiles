@@ -1,4 +1,4 @@
-shell = "/usr/bin/zsh"
+# terminal.shell = "/usr/bin/zsh"
 
 [colors.bright]
 black = "0x686868"
